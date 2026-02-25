@@ -2,7 +2,7 @@ title: CLUES Data Documentation
 description: Data dictionaries and processing workflows for the Comprehensive Laboratory for Untargeted Exposome Science
 remote_theme: just-the-docs/just-the-docs
 url: ""
-baseurl: "/clues-data-docs"  # Change to your repo name
+baseurl: "/CLUES-Workflow-DataDictionary"  # Change to your repo name
 
 # Navigation structure
 nav_order: true
